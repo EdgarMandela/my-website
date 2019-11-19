@@ -1,0 +1,14 @@
+[2019-11-19 16:24:48.403] [exthost] [info] extension host started
+[2019-11-19 16:24:48.592] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onLanguage:html"}
+[2019-11-19 16:24:48.595] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/edgar/.vscode-server/bin/8795a9889db74563ddd43eb0a897a2384129a619/extensions/emmet/dist/extension
+[2019-11-19 16:24:48.683] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2019-11-19 16:24:48.683] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/edgar/.vscode-server/bin/8795a9889db74563ddd43eb0a897a2384129a619/extensions/html-language-features/client/dist/htmlMain
+[2019-11-19 16:24:48.768] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-11-19 16:24:48.768] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/edgar/.vscode-server/bin/8795a9889db74563ddd43eb0a897a2384129a619/extensions/debug-auto-launch/dist/extension
+[2019-11-19 16:24:48.773] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-11-19 16:24:48.773] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/edgar/.vscode-server/bin/8795a9889db74563ddd43eb0a897a2384129a619/extensions/git/dist/main
+[2019-11-19 16:24:48.885] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-11-19 16:24:48.885] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/edgar/.vscode-server/bin/8795a9889db74563ddd43eb0a897a2384129a619/extensions/merge-conflict/dist/extension
+[2019-11-19 16:24:48.900] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2019-11-19 16:24:48.900] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/edgar/.vscode-server/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-11-19 16:24:54.521] [exthost] [info] eager extensions activated
